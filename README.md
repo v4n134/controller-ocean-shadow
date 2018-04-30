@@ -1,5 +1,5 @@
-# Custom Ocean Shadow Controller Overlay
-This a skin for a controller overlay
+# Custom Controller Overlay
+This is an ocean shadow skin for an Xbox One controller overlay
 
 ## Usage
 Create a new browser source in OBS and set the URL to the following:
